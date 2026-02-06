@@ -1,8 +1,6 @@
 from aiogram import Router
 from aiogram.types import CallbackQuery
 
-from states.state import Form
-from aiogram.fsm.context import FSMContext
 
 router = Router()
 
