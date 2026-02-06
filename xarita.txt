@@ -1,0 +1,11 @@
+# qilish kerak
+1. foydalanuvchilar bazasi
+
+# qilyapman
+1. master panel kirish qism
+2. user panel kirish qism
+
+
+# qilindi
+1. bot skeleti
+2. registration
